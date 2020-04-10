@@ -6,4 +6,4 @@ This project clones the Visual Subnet Calculator from [davidc.net web site](http
 
 # Visit Page
 
-[You can visit the page here.](http://rkttu.github.io/visualsubnetcalc/calculator.html)
+[You can visit the page here.](http://rkttu.github.io/visualsubnetcalc/subnets.html)
